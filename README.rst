@@ -90,7 +90,7 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ this component in your
 ::
 
     @article{kourouklides2023asi,
-      author = {Ioannis Kourouklides, Novak I.K. Zukowski},
+      author = {Ioannis Kourouklides, Novak I. K. Zukowski},
       journal = {OSF Preprints},
       title = {AGI and ASI},
       year = {2023},
