@@ -9,7 +9,7 @@ AGI and ASI
   :target: LICENSE
   :alt: License
 
-.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Ftebpn-blue
+.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fezynx-blue
   :target: CITATION.cff
   :alt: DOI
 
@@ -49,12 +49,12 @@ Component page
 
 Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the project is temporarily hosted at:
 
-- https://osf.io/fvndu/
+- https://osf.io/ezynx/
 
 Component DOI
 ^^^^^^^^^^^^^
 
-**Project identifier:** https://doi.org/10.17605/OSF.IO/TEBPN
+**Project identifier:** https://doi.org/10.17605/OSF.IO/EZYNX
 
 Component dependencies
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -89,12 +89,12 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ this component in your
 
 ::
 
-    @article{kourouklides2022cl,
-      author = {Ioannis Kourouklides},
+    @article{kourouklides2023asi,
+      author = {Ioannis Kourouklides, Novak I.K. Zukowski},
       journal = {OSF Preprints},
-      title = {Continual Learning},
-      year = {2022},
-      doi = {10.17605/osf.io/tebpn},
+      title = {AGI and ASI},
+      year = {2023},
+      doi = {10.17605/osf.io/ezynx},
       license = {Creative Commons Zero CC0 1.0}
     }
 
