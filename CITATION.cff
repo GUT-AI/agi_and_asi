@@ -4,10 +4,12 @@ title: Continual Learning
 authors:
   - family-names: Kourouklides
     given-names: Ioannis
+  - family-names: I. K. Zukowski
+    given-names: Novak
 identifiers:
   - type: doi
-    value: 10.17605/osf.io/tebpn
+    value: 10.17605/osf.io/ezynx
     description: The concept DOI for the collection containing all versions of the Citation File Format.
-date-released: "2022"
+date-released: "2023"
 license: "Creative Commons Zero CC0 1.0"
-doi: 10.17605/osf.io/tebpn
+doi: 10.17605/osf.io/ezynx
